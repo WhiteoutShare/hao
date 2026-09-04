@@ -1,16 +1,16 @@
-## Hi there 👋
+## 地底探検関連
 
-<!--
-**WhiteoutShare/WhiteOutShare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+地底探検で推奨されている兵士の割合です。
 
-Here are some ideas to get you started:
+| 施設 | 盾 | 槍 | 弓 |
+|---|---:|---:|---:|
+| 勇者の地 | 50% | 10% | 40% |
+| 獣の洞窟 | 50% | 15% | 35% |
+| 微光鉱山 | 60% | 20% | 20% |
+| 地下実験室 | 50% | 20% | 30% |
+| 黒鉄の鍛治炉 | 60% | 15% | 25% |
+| 大地の心 | 50% | 15% | 35% |
+| ペット宝石 | 50% | 20% | 30% |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ※兵士のレベルや育成状況などによって最適な割合は変わる可能性があります。  
+> 参考程度にご確認ください。
