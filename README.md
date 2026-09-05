@@ -92,7 +92,5 @@ Lv.5以下の兵士は、できるだけ高レベル兵へ昇格をお願いし�
 
 ## Gift Code
 
- OfficialGiftCenter: 
-
 - [GiftCode](https://wosrewards.com/giftcodes)
 - [Official Gift Center](https://wos-giftcode.centurygame.com/)
