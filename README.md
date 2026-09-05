@@ -86,3 +86,13 @@ Lv.5以下の兵士は、できるだけ高レベル兵へ昇格をお願いし�
 - ダイヤ10,000個でVIPを1か月購入できます。VIP特典を考えると、とてもお得です
 - 同盟ショップでは、移転アイテムを優先して交換し、できるだけ貯めておきましょう
 - イベントや戦争などで急な移転が必要になる場合に備え、普段から移転アイテムを確保しておくと安心です
+
+
+# 【その他】
+
+## Gift Code
+
+ OfficialGiftCenter: 
+
+- [GiftCode](https://wosrewards.com/addgiftcode)
+- [Official Gift Center](https://wos-giftcode.centurygame.com/)
