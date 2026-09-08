@@ -72,7 +72,7 @@ Lv.5以下の兵士は、できるだけ高レベル兵へ昇格をお願いし�
 
 積極的な参加・ご協力をよろしくお願いします！
 
-参照：[兵器工場まとめ](https://github.com/WhiteoutShare/hao/blob/main/WeaponsFactory.md)
+参照：[兵器工場まとめ](https://whiteoutshare.github.io/hao/WeaponsFactory)
 
 #  【同盟争覇戦について】
 
