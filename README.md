@@ -1,4 +1,4 @@
-
+# Join HAO and grow stronger!
 
 # 【サーバールール共有】
 
