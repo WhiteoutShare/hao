@@ -157,3 +157,5 @@ Lv.5以下の兵士は、できるだけ高レベル兵へ昇格をお願いし�
 - [GiftCode](https://wosrewards.com/giftcodes)
 - [Official Gift Center](https://wos-giftcode.centurygame.com/)
 - [PCまたはMacでホワイトアウト・サバイバルをプレイする](https://www.bluestacks.com/ja/apps/action/white-out-survival-on-pc.html)
+
+- [GiftCode 自動配布用アンケート](https://forms.gle/6sC5Z22fDnEyPhZv9)
