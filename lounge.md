@@ -25,7 +25,15 @@
 ただその武勇を称えるだけではなく、  
 彼の選択、得たものと失ったもの、そして彼が歩んだ人生にも目を向けてみる。**
 
-
+<iframe
+  width="640"
+  height="360"
+  src="https://www.youtube.com/embed/X_Y4E9gL4kw"
+  title="西楚霸王——项羽"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 ## 🌳 生命の樹の作業員
 
