@@ -2,7 +2,7 @@
 
 #  [4471王国限定｜GiftCode 自動配布用アンケート](https://forms.gle/6sC5Z22fDnEyPhZv9)
 
-# **HAO匿名アンケートのお願い**
+# **苦情受付窓口・HAO匿名アンケートのお願い**
 
 [https://forms.gle/W6GqgrFqccPHKJyc9](https://forms.gle/W6GqgrFqccPHKJyc9)  
 これからも、みんなが気軽に楽しく遊べるHAOにしていくため、匿名アンケートを実施しています。  
